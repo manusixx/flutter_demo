@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="Flutter Demo" src="https://github.com/user-attachments/assets/25dea61d-f8c4-4fc8-aa25-f9d14f29044f" />
+
+
 # flutter_demo
 
 A new Flutter programming dojo to learn fundamental concepts.
